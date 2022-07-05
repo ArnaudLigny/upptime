@@ -32,6 +32,9 @@ status-website:
     #  href: https://github.com/$OWNER/$REPO
   theme: ocean
   favicon: https://avatars.slack-edge.com/2019-01-07/519740943718_24bb52543b0d63380aab_132.png
+  metaTags:
+    - name: "robots"
+      content: "noindex"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
