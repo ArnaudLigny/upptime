@@ -30,9 +30,11 @@ status-website:
       href: /
     #- title: GitHub
     #  href: https://github.com/$OWNER/$REPO
-  theme: ocean
+  theme: dark
   favicon: https://avatars.slack-edge.com/2019-01-07/519740943718_24bb52543b0d63380aab_132.png
   metaTags:
+    - name: "color-scheme"
+      content: "dark light"
     - name: "robots"
       content: "noindex"
 
