@@ -8,7 +8,7 @@ sites:
     url: https://cecil.app
 
 status-website:
-  cname: https://dev.ligny.org/upptime
+  cname: https://dev.ligny.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
