@@ -8,8 +8,8 @@ sites:
     url: https://cecil.app
 
 status-website:
-  cname: https://dev.ligny.org
-  baseUrl: /upptime
+  #cname: https://dev.ligny.org
+  baseUrl: https://dev.ligny.org/upptime/
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
