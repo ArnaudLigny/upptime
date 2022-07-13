@@ -4,18 +4,20 @@
     "url": "https://arnaudligny.fr",
     "icon": "https://favicons.githubusercontent.com/arnaudligny.fr",
     "slug": "arnaud-ligny-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 387,
     "timeDay": 327,
-    "timeWeek": 224,
+    "timeWeek": 234,
     "timeMonth": 387,
     "timeYear": 387,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-13": 0
+    }
   },
   {
     "name": "Ligny.fr",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 427,
     "timeDay": 478,
-    "timeWeek": 412,
+    "timeWeek": 404,
     "timeMonth": 427,
     "timeYear": 427,
     "dailyMinutesDown": {}
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 247,
     "timeDay": 110,
-    "timeWeek": 136,
+    "timeWeek": 142,
     "timeMonth": 247,
     "timeYear": 247,
     "dailyMinutesDown": {}
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 168,
-    "timeWeek": 160,
+    "timeWeek": 159,
     "timeMonth": 184,
     "timeYear": 184,
     "dailyMinutesDown": {}
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 227,
     "timeDay": 138,
-    "timeWeek": 159,
+    "timeWeek": 158,
     "timeMonth": 227,
     "timeYear": 227,
     "dailyMinutesDown": {}
@@ -102,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 279,
     "timeDay": 167,
-    "timeWeek": 257,
+    "timeWeek": 173,
     "timeMonth": 279,
     "timeYear": 279,
     "dailyMinutesDown": {}
