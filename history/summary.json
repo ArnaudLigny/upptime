@@ -4,19 +4,19 @@
     "url": "https://arnaudligny.fr",
     "icon": "https://favicons.githubusercontent.com/arnaudligny.fr",
     "slug": "arnaud-ligny-fr",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 370,
-    "timeDay": 197,
-    "timeWeek": 232,
-    "timeMonth": 370,
-    "timeYear": 370,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 366,
+    "timeDay": 220,
+    "timeWeek": 236,
+    "timeMonth": 366,
+    "timeYear": 366,
     "dailyMinutesDown": {
-      "2022-07-14": 1
+      "2022-07-14": 9
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://cecil.app",
     "icon": "https://favicons.githubusercontent.com/cecil.app",
     "slug": "cecil-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 125,
-    "timeWeek": 143,
-    "timeMonth": 241,
-    "timeYear": 241,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 243,
+    "timeDay": 204,
+    "timeWeek": 161,
+    "timeMonth": 243,
+    "timeYear": 243,
     "dailyMinutesDown": {
-      "2022-07-14": 0
+      "2022-07-14": 8
     }
   },
   {
