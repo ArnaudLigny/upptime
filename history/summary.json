@@ -4,18 +4,20 @@
     "url": "https://arnaudligny.fr",
     "icon": "https://favicons.githubusercontent.com/arnaudligny.fr",
     "slug": "arnaud-ligny-fr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 370,
     "timeDay": 197,
     "timeWeek": 232,
     "timeMonth": 370,
     "timeYear": 370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-14": 1
+    }
   },
   {
     "name": "Ligny.fr",
@@ -40,9 +42,9 @@
     "url": "https://cecil.app",
     "icon": "https://favicons.githubusercontent.com/cecil.app",
     "slug": "cecil-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 143,
     "timeMonth": 241,
     "timeYear": 241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-14": 0
+    }
   },
   {
     "name": "Jamstatic.fr",
