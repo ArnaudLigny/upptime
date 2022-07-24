@@ -94,19 +94,19 @@
     "url": "https://shop.cecillie.fr",
     "icon": "https://favicons.githubusercontent.com/shop.cecillie.fr",
     "slug": "paysages-a-velo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 1712,
-    "timeWeek": 687,
-    "timeMonth": 435,
-    "timeYear": 435,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 432,
+    "timeDay": 1259,
+    "timeWeek": 649,
+    "timeMonth": 432,
+    "timeYear": 432,
     "dailyMinutesDown": {
-      "2022-07-24": 0
+      "2022-07-24": 12
     }
   },
   {
