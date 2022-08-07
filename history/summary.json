@@ -40,9 +40,9 @@
     "url": "https://cecil.app",
     "icon": "https://favicons.githubusercontent.com/cecil.app",
     "slug": "cecil-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -52,6 +52,7 @@
     "timeMonth": 257,
     "timeYear": 266,
     "dailyMinutesDown": {
+      "2022-08-07": 0,
       "2022-07-27": 21
     }
   },
@@ -96,18 +97,20 @@
     "url": "https://shop.cecillie.fr",
     "icon": "https://favicons.githubusercontent.com/shop.cecillie.fr",
     "slug": "paysages-a-velo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 380,
-    "timeDay": 335,
-    "timeWeek": 311,
-    "timeMonth": 390,
-    "timeYear": 380,
-    "dailyMinutesDown": {}
+    "time": 441,
+    "timeDay": 1713,
+    "timeWeek": 658,
+    "timeMonth": 469,
+    "timeYear": 441,
+    "dailyMinutesDown": {
+      "2022-08-07": 0
+    }
   },
   {
     "name": "Narno.com",
