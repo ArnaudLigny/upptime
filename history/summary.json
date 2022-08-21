@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/arnaudligny.fr",
     "slug": "arnaud-ligny-fr",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 354,
-    "timeDay": 977,
-    "timeWeek": 710,
-    "timeMonth": 382,
-    "timeYear": 354,
-    "dailyMinutesDown": {
-      "2022-08-20": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 352,
+    "timeDay": 1227,
+    "timeWeek": 709,
+    "timeMonth": 385,
+    "timeYear": 352,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ligny.fr",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 448,
-    "timeWeek": 404,
-    "timeMonth": 401,
-    "timeYear": 416,
+    "time": 417,
+    "timeDay": 515,
+    "timeWeek": 409,
+    "timeMonth": 403,
+    "timeYear": 417,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 278,
-    "timeDay": 231,
-    "timeWeek": 382,
-    "timeMonth": 322,
-    "timeYear": 278,
+    "time": 277,
+    "timeDay": 214,
+    "timeWeek": 247,
+    "timeMonth": 321,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2022-07-27": 21
     }
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 252,
-    "timeWeek": 251,
-    "timeMonth": 325,
-    "timeYear": 273,
+    "time": 272,
+    "timeDay": 198,
+    "timeWeek": 250,
+    "timeMonth": 324,
+    "timeYear": 272,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 205,
-    "timeWeek": 237,
-    "timeMonth": 267,
-    "timeYear": 259,
+    "time": 257,
+    "timeDay": 171,
+    "timeWeek": 242,
+    "timeMonth": 266,
+    "timeYear": 257,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 254,
-    "timeWeek": 1326,
-    "timeMonth": 741,
-    "timeYear": 593,
+    "time": 588,
+    "timeDay": 245,
+    "timeWeek": 1334,
+    "timeMonth": 743,
+    "timeYear": 588,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 261,
-    "timeWeek": 310,
-    "timeMonth": 220,
-    "timeYear": 216,
+    "time": 215,
+    "timeDay": 159,
+    "timeWeek": 313,
+    "timeMonth": 221,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   }
 ]
