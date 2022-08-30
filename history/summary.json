@@ -40,9 +40,9 @@
     "url": "https://cecil.app",
     "icon": "https://favicons.githubusercontent.com/cecil.app",
     "slug": "cecil-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -52,6 +52,7 @@
     "timeMonth": 306,
     "timeYear": 266,
     "dailyMinutesDown": {
+      "2022-08-30": 0,
       "2022-07-27": 21
     }
   },
@@ -60,9 +61,9 @@
     "url": "https://jamstatic.fr",
     "icon": "https://favicons.githubusercontent.com/jamstatic.fr",
     "slug": "jamstatic-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +72,9 @@
     "timeWeek": 376,
     "timeMonth": 334,
     "timeYear": 282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-30": 0
+    }
   },
   {
     "name": "Cecillie.fr",
@@ -96,9 +99,9 @@
     "url": "https://shop.cecillie.fr",
     "icon": "https://favicons.githubusercontent.com/shop.cecillie.fr",
     "slug": "paysages-a-velo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +110,9 @@
     "timeWeek": 465,
     "timeMonth": 741,
     "timeYear": 575,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-30": 0
+    }
   },
   {
     "name": "Narno.com",
