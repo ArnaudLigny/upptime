@@ -4,9 +4,9 @@
     "url": "https://arnaudligny.fr",
     "icon": "https://favicons.githubusercontent.com/arnaudligny.fr",
     "slug": "arnaud-ligny-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 744,
     "timeMonth": 508,
     "timeYear": 401,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-30": 0
+    }
   },
   {
     "name": "Ligny.fr",
@@ -40,19 +42,19 @@
     "url": "https://cecil.app",
     "icon": "https://favicons.githubusercontent.com/cecil.app",
     "slug": "cecil-app",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 265,
     "timeDay": 231,
     "timeWeek": 210,
     "timeMonth": 303,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2022-08-30": 7,
+      "2022-08-30": 0,
       "2022-07-27": 21
     }
   },
@@ -62,19 +64,17 @@
     "icon": "https://favicons.githubusercontent.com/jamstatic.fr",
     "slug": "jamstatic-fr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 281,
     "timeDay": 833,
     "timeWeek": 355,
     "timeMonth": 330,
     "timeYear": 281,
-    "dailyMinutesDown": {
-      "2022-08-30": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cecillie.fr",
@@ -100,19 +100,17 @@
     "icon": "https://favicons.githubusercontent.com/shop.cecillie.fr",
     "slug": "paysages-a-velo",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 568,
     "timeDay": 228,
     "timeWeek": 427,
     "timeMonth": 724,
     "timeYear": 568,
-    "dailyMinutesDown": {
-      "2022-08-30": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Narno.com",
