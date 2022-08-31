@@ -4,19 +4,19 @@
     "url": "https://arnaudligny.fr",
     "icon": "https://favicons.githubusercontent.com/arnaudligny.fr",
     "slug": "arnaud-ligny-fr",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 396,
     "timeDay": 285,
     "timeWeek": 673,
     "timeMonth": 497,
     "timeYear": 396,
     "dailyMinutesDown": {
-      "2022-08-31": 9
+      "2022-08-31": 0
     }
   },
   {
@@ -43,18 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/cecil.app",
     "slug": "cecil-app",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 263,
-    "timeDay": 217,
+    "timeDay": 223,
     "timeWeek": 204,
     "timeMonth": 299,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2022-08-31": 9,
       "2022-07-27": 21
     }
   },
@@ -70,7 +69,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 279,
-    "timeDay": 211,
+    "timeDay": 216,
     "timeWeek": 332,
     "timeMonth": 301,
     "timeYear": 279,
@@ -99,18 +98,20 @@
     "url": "https://shop.cecillie.fr",
     "icon": "https://favicons.githubusercontent.com/shop.cecillie.fr",
     "slug": "paysages-a-velo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 558,
-    "timeDay": 173,
+    "timeDay": 197,
     "timeWeek": 235,
     "timeMonth": 711,
     "timeYear": 558,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-31": 0
+    }
   },
   {
     "name": "Narno.com",
