@@ -60,9 +60,9 @@
     "url": "https://jamstatic.fr",
     "icon": "https://favicons.githubusercontent.com/jamstatic.fr",
     "slug": "jamstatic-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 253,
     "timeMonth": 309,
     "timeYear": 290,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-13": 0
+    }
   },
   {
     "name": "Cecillie.fr",
