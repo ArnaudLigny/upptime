@@ -114,9 +114,9 @@
     "url": "https://narno.com",
     "icon": "https://favicons.githubusercontent.com/narno.com",
     "slug": "narno-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,6 +125,8 @@
     "timeWeek": 192,
     "timeMonth": 234,
     "timeYear": 214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   }
 ]
