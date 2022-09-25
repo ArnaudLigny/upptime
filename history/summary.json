@@ -4,9 +4,9 @@
     "url": "https://arnaudligny.fr",
     "icon": "https://favicons.githubusercontent.com/arnaudligny.fr",
     "slug": "arnaud-ligny-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 426,
     "timeMonth": 407,
     "timeYear": 366,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 0
+    }
   },
   {
     "name": "Ligny.fr",
@@ -78,9 +80,9 @@
     "url": "https://www.cecillie.fr",
     "icon": "https://favicons.githubusercontent.com/www.cecillie.fr",
     "slug": "cecillie-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,14 +91,16 @@
     "timeWeek": 348,
     "timeMonth": 275,
     "timeYear": 277,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 0
+    }
   },
   {
     "name": "Paysages à vélo",
     "url": "https://shop.cecillie.fr",
     "icon": "https://favicons.githubusercontent.com/shop.cecillie.fr",
     "slug": "paysages-a-velo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -107,7 +111,9 @@
     "timeWeek": 311,
     "timeMonth": 277,
     "timeYear": 490,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 0
+    }
   },
   {
     "name": "Narno.com",
