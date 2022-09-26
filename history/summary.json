@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/arnaudligny.fr",
     "slug": "arnaud-ligny-fr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 366,
-    "timeDay": 345,
-    "timeWeek": 421,
-    "timeMonth": 407,
+    "timeDay": 372,
+    "timeWeek": 446,
+    "timeMonth": 410,
     "timeYear": 366,
-    "dailyMinutesDown": {
-      "2022-09-25": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ligny.fr",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 493,
-    "timeDay": 345,
-    "timeWeek": 467,
-    "timeMonth": 610,
-    "timeYear": 493,
+    "time": 492,
+    "timeDay": 374,
+    "timeWeek": 454,
+    "timeMonth": 607,
+    "timeYear": 492,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 297,
-    "timeDay": 298,
-    "timeWeek": 285,
-    "timeMonth": 343,
+    "timeDay": 311,
+    "timeWeek": 306,
+    "timeMonth": 346,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2022-07-27": 21
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 286,
-    "timeDay": 246,
-    "timeWeek": 302,
-    "timeMonth": 317,
+    "timeDay": 261,
+    "timeWeek": 311,
+    "timeMonth": 319,
     "timeYear": 286,
     "dailyMinutesDown": {}
   },
@@ -81,19 +79,17 @@
     "icon": "https://favicons.githubusercontent.com/www.cecillie.fr",
     "slug": "cecillie-fr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 278,
-    "timeDay": 259,
-    "timeWeek": 345,
-    "timeMonth": 276,
-    "timeYear": 278,
-    "dailyMinutesDown": {
-      "2022-09-25": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 279,
+    "timeDay": 349,
+    "timeWeek": 368,
+    "timeMonth": 280,
+    "timeYear": 279,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Paysages à vélo",
@@ -101,19 +97,17 @@
     "icon": "https://favicons.githubusercontent.com/shop.cecillie.fr",
     "slug": "paysages-a-velo",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 488,
-    "timeDay": 289,
-    "timeWeek": 314,
-    "timeMonth": 278,
-    "timeYear": 488,
-    "dailyMinutesDown": {
-      "2022-09-25": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 486,
+    "timeDay": 283,
+    "timeWeek": 319,
+    "timeMonth": 279,
+    "timeYear": 486,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Narno.com",
@@ -127,9 +121,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 219,
-    "timeDay": 206,
-    "timeWeek": 269,
-    "timeMonth": 227,
+    "timeDay": 272,
+    "timeWeek": 271,
+    "timeMonth": 229,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2022-09-15": 30
