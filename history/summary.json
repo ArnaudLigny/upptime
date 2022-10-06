@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/arnaudligny.fr.ico",
     "slug": "arnaud-ligny-fr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 377,
-    "timeDay": 1202,
-    "timeWeek": 534,
-    "timeMonth": 359,
-    "timeYear": 377,
-    "dailyMinutesDown": {
-      "2022-10-05": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 376,
+    "timeDay": 1201,
+    "timeWeek": 535,
+    "timeMonth": 364,
+    "timeYear": 376,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ligny.fr",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 451,
-    "timeWeek": 398,
+    "time": 484,
+    "timeDay": 250,
+    "timeWeek": 366,
     "timeMonth": 554,
-    "timeYear": 487,
+    "timeYear": 484,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 292,
-    "timeDay": 277,
-    "timeWeek": 232,
-    "timeMonth": 281,
-    "timeYear": 292,
+    "time": 294,
+    "timeDay": 500,
+    "timeWeek": 274,
+    "timeMonth": 247,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2022-07-27": 21
     }
@@ -63,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/jamstatic.fr.ico",
     "slug": "jamstatic-fr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 310,
-    "timeDay": 1202,
-    "timeWeek": 573,
-    "timeMonth": 344,
-    "timeYear": 310,
-    "dailyMinutesDown": {
-      "2022-10-05": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 308,
+    "timeDay": 1126,
+    "timeWeek": 563,
+    "timeMonth": 342,
+    "timeYear": 308,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cecillie.fr",
@@ -83,19 +79,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cecillie.fr.ico",
     "slug": "cecillie-fr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 1194,
-    "timeWeek": 521,
-    "timeMonth": 358,
+    "timeDay": 1166,
+    "timeWeek": 520,
+    "timeMonth": 360,
     "timeYear": 299,
-    "dailyMinutesDown": {
-      "2022-10-05": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Paysages à vélo",
@@ -103,19 +97,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.cecillie.fr.ico",
     "slug": "paysages-a-velo",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 488,
-    "timeDay": 1247,
-    "timeWeek": 556,
-    "timeMonth": 335,
-    "timeYear": 488,
-    "dailyMinutesDown": {
-      "2022-10-05": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 491,
+    "timeDay": 1393,
+    "timeWeek": 619,
+    "timeMonth": 353,
+    "timeYear": 491,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Narno.com",
@@ -128,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 219,
-    "timeDay": 247,
-    "timeWeek": 206,
-    "timeMonth": 225,
-    "timeYear": 219,
+    "time": 220,
+    "timeDay": 329,
+    "timeWeek": 238,
+    "timeMonth": 227,
+    "timeYear": 220,
     "dailyMinutesDown": {
       "2022-09-15": 30
     }
