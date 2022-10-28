@@ -22,10 +22,10 @@
     "url": "https://ligny.fr",
     "icon": "https://icons.duckduckgo.com/ip3/ligny.fr.ico",
     "slug": "ligny-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 474,
@@ -33,7 +33,9 @@
     "timeWeek": 417,
     "timeMonth": 416,
     "timeYear": 474,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 1
+    }
   },
   {
     "name": "Cecil.app",
@@ -61,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jamstatic.fr.ico",
     "slug": "jamstatic-fr",
     "status": "up",
-    "uptime": "88.63%",
+    "uptime": "88.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "57.36%",
-    "uptimeYear": "88.63%",
+    "uptimeYear": "88.67%",
     "time": 311,
     "timeDay": 39,
     "timeWeek": 387,
