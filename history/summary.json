@@ -66,7 +66,7 @@
     "uptime": "89.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.64%",
+    "uptimeMonth": "58.66%",
     "uptimeYear": "89.61%",
     "time": 306,
     "timeDay": 373,
@@ -113,19 +113,19 @@
     "url": "https://shop.cecillie.fr",
     "icon": "https://icons.duckduckgo.com/ip3/shop.cecillie.fr.ico",
     "slug": "paysages-a-velo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 458,
-    "timeDay": 2101,
-    "timeWeek": 704,
-    "timeMonth": 352,
-    "timeYear": 458,
+    "time": 457,
+    "timeDay": 1508,
+    "timeWeek": 662,
+    "timeMonth": 351,
+    "timeYear": 457,
     "dailyMinutesDown": {
-      "2022-11-07": 0
+      "2022-11-07": 8
     }
   },
   {
