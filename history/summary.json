@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 418,
     "timeDay": 344,
-    "timeWeek": 336,
+    "timeWeek": 348,
     "timeMonth": 299,
     "timeYear": 418,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "99.99%",
     "time": 454,
     "timeDay": 370,
-    "timeWeek": 405,
+    "timeWeek": 396,
     "timeMonth": 405,
     "timeYear": 454,
     "dailyMinutesDown": {
@@ -52,7 +52,7 @@
     "uptimeYear": "99.99%",
     "time": 306,
     "timeDay": 218,
-    "timeWeek": 290,
+    "timeWeek": 286,
     "timeMonth": 267,
     "timeYear": 306,
     "dailyMinutesDown": {
@@ -73,7 +73,7 @@
     "uptimeYear": "93.45%",
     "time": 342,
     "timeDay": 187,
-    "timeWeek": 301,
+    "timeWeek": 296,
     "timeMonth": 253,
     "timeYear": 342,
     "dailyMinutesDown": {
@@ -106,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 333,
     "timeDay": 192,
-    "timeWeek": 266,
+    "timeWeek": 277,
     "timeMonth": 239,
     "timeYear": 333,
     "dailyMinutesDown": {}
@@ -124,7 +124,7 @@
     "uptimeYear": "99.99%",
     "time": 479,
     "timeDay": 232,
-    "timeWeek": 305,
+    "timeWeek": 300,
     "timeMonth": 252,
     "timeYear": 479,
     "dailyMinutesDown": {
@@ -136,19 +136,19 @@
     "url": "https://narno.com",
     "icon": "https://icons.duckduckgo.com/ip3/narno.com.ico",
     "slug": "narno-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 0,
-    "timeWeek": 238,
+    "timeDay": 251,
+    "timeWeek": 245,
     "timeMonth": 242,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-01-19": 0,
+      "2023-01-19": 4,
       "2022-09-15": 30
     }
   }
