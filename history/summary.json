@@ -66,11 +66,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jamstatic.fr.ico",
     "slug": "jamstatic-fr",
     "status": "up",
-    "uptime": "94.66%",
+    "uptime": "94.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.66%",
+    "uptimeYear": "94.68%",
     "time": 329,
     "timeDay": 406,
     "timeWeek": 256,
@@ -98,9 +98,9 @@
     "url": "https://www.cecillie.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cecillie.fr.ico",
     "slug": "cecillie-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,7 +109,9 @@
     "timeWeek": 250,
     "timeMonth": 260,
     "timeYear": 320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-06": 0
+    }
   },
   {
     "name": "Paysages à vélo",
