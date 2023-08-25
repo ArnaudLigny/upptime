@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 444,
-    "timeWeek": 345,
-    "timeMonth": 287,
-    "timeYear": 357,
+    "time": 355,
+    "timeDay": 317,
+    "timeWeek": 353,
+    "timeMonth": 283,
+    "timeYear": 358,
     "dailyMinutesDown": {
       "2022-11-11": 16
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 453,
-    "timeDay": 915,
-    "timeWeek": 474,
-    "timeMonth": 434,
-    "timeYear": 458,
+    "timeDay": 434,
+    "timeWeek": 491,
+    "timeMonth": 433,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2022-11-03": 18
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 258,
-    "timeWeek": 216,
-    "timeMonth": 239,
-    "timeYear": 273,
+    "time": 274,
+    "timeDay": 314,
+    "timeWeek": 248,
+    "timeMonth": 240,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2022-12-06": 21
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jamstatic.fr.ico",
     "slug": "jamstatic-fr",
     "status": "up",
-    "uptime": "96.87%",
+    "uptime": "96.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.45%",
     "time": 312,
-    "timeDay": 433,
-    "timeWeek": 316,
-    "timeMonth": 302,
-    "timeYear": 319,
+    "timeDay": 372,
+    "timeWeek": 339,
+    "timeMonth": 301,
+    "timeYear": 320,
     "dailyMinutesDown": {
       "2022-10-20": 471,
       "2022-10-19": 1440,
@@ -104,10 +104,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 662,
-    "timeWeek": 297,
-    "timeMonth": 274,
-    "timeYear": 322,
+    "timeDay": 359,
+    "timeWeek": 327,
+    "timeMonth": 278,
+    "timeYear": 323,
     "dailyMinutesDown": {}
   },
   {
@@ -121,10 +121,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 383,
-    "timeDay": 835,
-    "timeWeek": 375,
-    "timeMonth": 256,
+    "time": 382,
+    "timeDay": 208,
+    "timeWeek": 365,
+    "timeMonth": 252,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2022-12-06": 35
@@ -136,16 +136,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/narno.com.ico",
     "slug": "narno-com",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 226,
-    "timeDay": 228,
-    "timeWeek": 264,
-    "timeMonth": 251,
-    "timeYear": 227,
+    "timeDay": 321,
+    "timeWeek": 266,
+    "timeMonth": 256,
+    "timeYear": 228,
     "dailyMinutesDown": {
       "2022-09-15": 30
     }
