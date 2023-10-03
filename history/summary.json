@@ -138,19 +138,19 @@
     "url": "https://narno.com",
     "icon": "https://icons.duckduckgo.com/ip3/narno.com.ico",
     "slug": "narno-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 177,
-    "timeWeek": 248,
-    "timeMonth": 231,
+    "timeDay": 180,
+    "timeWeek": 240,
+    "timeMonth": 229,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2023-10-03": 0
+      "2023-10-03": 23
     }
   }
 ]
