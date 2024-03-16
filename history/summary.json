@@ -4,10 +4,10 @@
     "url": "https://arnaudligny.fr",
     "icon": "https://icons.duckduckgo.com/ip3/arnaudligny.fr.ico",
     "slug": "arnaud-ligny-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
@@ -15,7 +15,9 @@
     "timeWeek": 736,
     "timeMonth": 355,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 1
+    }
   },
   {
     "name": "Ligny.fr",
@@ -70,7 +72,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jamstatic.fr.ico",
     "slug": "jamstatic-fr",
     "status": "up",
-    "uptime": "97.90%",
+    "uptime": "97.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -87,9 +89,9 @@
     "url": "https://www.cecillie.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cecillie.fr.ico",
     "slug": "cecillie-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,16 +100,18 @@
     "timeWeek": 187,
     "timeMonth": 195,
     "timeYear": 251,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Paysages à vélo",
     "url": "https://shop.cecillie.fr",
     "icon": "https://icons.duckduckgo.com/ip3/shop.cecillie.fr.ico",
     "slug": "paysages-a-velo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,7 +120,9 @@
     "timeWeek": 170,
     "timeMonth": 185,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Narno.com",
