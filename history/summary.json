@@ -6,17 +6,17 @@
     "slug": "arnaud-ligny-fr",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 282,
-    "timeWeek": 736,
-    "timeMonth": 355,
+    "timeDay": 265,
+    "timeWeek": 675,
+    "timeMonth": 352,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2024-03-16": 7
+      "2024-03-16": 0
     }
   },
   {
@@ -53,9 +53,9 @@
     "url": "https://cecil.app",
     "icon": "https://icons.duckduckgo.com/ip3/cecil.app.ico",
     "slug": "cecil-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -64,16 +64,18 @@
     "timeWeek": 134,
     "timeMonth": 158,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Jamstatic.fr",
     "url": "https://jamstatic.fr",
     "icon": "https://icons.duckduckgo.com/ip3/jamstatic.fr.ico",
     "slug": "jamstatic-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "97.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -82,7 +84,9 @@
     "timeWeek": 890,
     "timeMonth": 352,
     "timeYear": 256,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Cecillie.fr",
@@ -91,18 +95,16 @@
     "slug": "cecillie-fr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 268,
     "timeDay": 274,
     "timeWeek": 186,
     "timeMonth": 194,
     "timeYear": 251,
-    "dailyMinutesDown": {
-      "2024-03-16": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Paysages à vélo",
@@ -111,18 +113,16 @@
     "slug": "paysages-a-velo",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 306,
     "timeDay": 179,
     "timeWeek": 161,
     "timeMonth": 183,
     "timeYear": 260,
-    "dailyMinutesDown": {
-      "2024-03-16": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Narno.com",
