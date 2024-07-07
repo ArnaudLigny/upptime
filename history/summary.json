@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 188,
-    "timeWeek": 167,
-    "timeMonth": 182,
+    "timeDay": 195,
+    "timeWeek": 182,
+    "timeMonth": 179,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2024-03-16": 17
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
     "time": 433,
-    "timeDay": 496,
-    "timeWeek": 411,
+    "timeDay": 450,
+    "timeWeek": 438,
     "timeMonth": 400,
     "timeYear": 418,
     "dailyMinutesDown": {
@@ -60,10 +60,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 261,
+    "timeDay": 88,
     "timeWeek": 173,
-    "timeMonth": 168,
-    "timeYear": 204,
+    "timeMonth": 163,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   },
   {
@@ -78,10 +78,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
-    "timeDay": 165,
-    "timeWeek": 224,
-    "timeMonth": 189,
-    "timeYear": 231,
+    "timeDay": 311,
+    "timeWeek": 253,
+    "timeMonth": 190,
+    "timeYear": 232,
     "dailyMinutesDown": {}
   },
   {
@@ -96,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 104,
-    "timeWeek": 200,
-    "timeMonth": 194,
+    "timeDay": 240,
+    "timeWeek": 220,
+    "timeMonth": 190,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -114,10 +114,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 178,
-    "timeWeek": 208,
-    "timeMonth": 187,
-    "timeYear": 231,
+    "timeDay": 169,
+    "timeWeek": 219,
+    "timeMonth": 184,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   },
   {
@@ -132,10 +132,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 93,
-    "timeWeek": 209,
-    "timeMonth": 217,
-    "timeYear": 225,
+    "timeDay": 173,
+    "timeWeek": 207,
+    "timeMonth": 213,
+    "timeYear": 224,
     "dailyMinutesDown": {
       "2023-10-03": 23
     }
