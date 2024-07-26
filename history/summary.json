@@ -89,19 +89,19 @@
     "url": "https://www.cecillie.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cecillie.fr.ico",
     "slug": "cecillie-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 1624,
-    "timeWeek": 531,
+    "timeDay": 1176,
+    "timeWeek": 503,
     "timeMonth": 288,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-07-26": 0
+      "2024-07-26": 12
     }
   },
   {
