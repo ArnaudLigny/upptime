@@ -53,36 +53,40 @@
     "url": "https://cecil.app",
     "icon": "https://icons.duckduckgo.com/ip3/cecil.app.ico",
     "slug": "cecil-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 127,
-    "timeWeek": 242,
-    "timeMonth": 247,
-    "timeYear": 204,
-    "dailyMinutesDown": {}
+    "time": 216,
+    "timeDay": 1127,
+    "timeWeek": 478,
+    "timeMonth": 306,
+    "timeYear": 209,
+    "dailyMinutesDown": {
+      "2024-08-03": 0
+    }
   },
   {
     "name": "Jamstatic.fr",
     "url": "https://jamstatic.fr",
     "icon": "https://icons.duckduckgo.com/ip3/jamstatic.fr.ico",
     "slug": "jamstatic-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "98.29%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 116,
-    "timeWeek": 237,
-    "timeMonth": 240,
-    "timeYear": 225,
-    "dailyMinutesDown": {}
+    "time": 249,
+    "timeDay": 2085,
+    "timeWeek": 714,
+    "timeMonth": 359,
+    "timeYear": 236,
+    "dailyMinutesDown": {
+      "2024-08-03": 0
+    }
   },
   {
     "name": "Cecillie.fr",
@@ -107,18 +111,20 @@
     "url": "https://shop.cecillie.fr",
     "icon": "https://icons.duckduckgo.com/ip3/shop.cecillie.fr.ico",
     "slug": "paysages-a-velo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 168,
-    "timeWeek": 206,
-    "timeMonth": 194,
-    "timeYear": 224,
-    "dailyMinutesDown": {}
+    "time": 240,
+    "timeDay": 1121,
+    "timeWeek": 439,
+    "timeMonth": 252,
+    "timeYear": 229,
+    "dailyMinutesDown": {
+      "2024-08-03": 0
+    }
   },
   {
     "name": "Narno.com",
