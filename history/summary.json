@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 185,
-    "timeWeek": 244,
+    "timeDay": 105,
+    "timeWeek": 206,
     "timeMonth": 223,
-    "timeYear": 217,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2024-03-16": 17
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
     "time": 425,
-    "timeDay": 452,
-    "timeWeek": 397,
-    "timeMonth": 432,
+    "timeDay": 177,
+    "timeWeek": 373,
+    "timeMonth": 424,
     "timeYear": 419,
     "dailyMinutesDown": {
       "2023-12-26": 57,
@@ -55,18 +55,16 @@
     "slug": "cecil-app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 805,
-    "timeWeek": 443,
+    "timeDay": 797,
+    "timeWeek": 424,
     "timeMonth": 301,
     "timeYear": 209,
-    "dailyMinutesDown": {
-      "2024-08-03": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jamstatic.fr",
@@ -75,18 +73,16 @@
     "slug": "jamstatic-fr",
     "status": "up",
     "uptime": "98.29%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 1502,
-    "timeWeek": 672,
-    "timeMonth": 359,
-    "timeYear": 236,
-    "dailyMinutesDown": {
-      "2024-08-03": 7
-    }
+    "timeDay": 1519,
+    "timeWeek": 658,
+    "timeMonth": 356,
+    "timeYear": 235,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cecillie.fr",
@@ -99,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 86,
-    "timeWeek": 209,
-    "timeMonth": 293,
-    "timeYear": 214,
+    "time": 239,
+    "timeDay": 169,
+    "timeWeek": 181,
+    "timeMonth": 291,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -113,18 +109,16 @@
     "slug": "paysages-a-velo",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 781,
-    "timeWeek": 401,
-    "timeMonth": 248,
+    "time": 240,
+    "timeDay": 860,
+    "timeWeek": 429,
+    "timeMonth": 259,
     "timeYear": 229,
-    "dailyMinutesDown": {
-      "2024-08-03": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Narno.com",
@@ -138,9 +132,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 227,
-    "timeWeek": 233,
-    "timeMonth": 352,
+    "timeDay": 328,
+    "timeWeek": 259,
+    "timeMonth": 353,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2023-10-03": 23
