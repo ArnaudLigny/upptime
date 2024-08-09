@@ -1,7 +1,7 @@
 url: https://shop.cecillie.fr
-status: up
-code: 200
-responseTime: 338
-lastUpdated: 2024-08-08T23:04:30.981Z
+status: down
+code: 500
+responseTime: 5219
+lastUpdated: 2024-08-09T17:02:23.703Z
 startTime: 2022-07-05T21:05:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
