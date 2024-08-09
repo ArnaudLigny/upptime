@@ -72,7 +72,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jamstatic.fr.ico",
     "slug": "jamstatic-fr",
     "status": "up",
-    "uptime": "98.30%",
+    "uptime": "98.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -107,18 +107,20 @@
     "url": "https://shop.cecillie.fr",
     "icon": "https://icons.duckduckgo.com/ip3/shop.cecillie.fr.ico",
     "slug": "paysages-a-velo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 338,
-    "timeWeek": 405,
-    "timeMonth": 252,
-    "timeYear": 229,
-    "dailyMinutesDown": {}
+    "time": 247,
+    "timeDay": 2779,
+    "timeWeek": 887,
+    "timeMonth": 398,
+    "timeYear": 242,
+    "dailyMinutesDown": {
+      "2024-08-09": 0
+    }
   },
   {
     "name": "Narno.com",
