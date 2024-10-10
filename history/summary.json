@@ -50,19 +50,19 @@
     "url": "https://cecil.app",
     "icon": "https://icons.duckduckgo.com/ip3/cecil.app.ico",
     "slug": "cecil-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 211,
-    "timeDay": 209,
-    "timeWeek": 238,
-    "timeMonth": 205,
+    "timeDay": 234,
+    "timeWeek": 243,
+    "timeMonth": 208,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-10-10": 0
+      "2024-10-10": 35
     }
   },
   {
@@ -88,18 +88,20 @@
     "url": "https://www.cecillie.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cecillie.fr.ico",
     "slug": "cecillie-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 101,
-    "timeWeek": 282,
-    "timeMonth": 254,
-    "timeYear": 218,
-    "dailyMinutesDown": {}
+    "timeDay": 94,
+    "timeWeek": 257,
+    "timeMonth": 249,
+    "timeYear": 217,
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   },
   {
     "name": "Paysages à vélo",
