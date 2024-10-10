@@ -50,18 +50,20 @@
     "url": "https://cecil.app",
     "icon": "https://icons.duckduckgo.com/ip3/cecil.app.ico",
     "slug": "cecil-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 318,
-    "timeWeek": 257,
-    "timeMonth": 209,
+    "time": 211,
+    "timeDay": 209,
+    "timeWeek": 238,
+    "timeMonth": 205,
     "timeYear": 208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   },
   {
     "name": "Jamstatic.fr",
