@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 114,
-    "timeWeek": 194,
-    "timeMonth": 191,
+    "timeDay": 273,
+    "timeWeek": 211,
+    "timeMonth": 194,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2024-03-16": 17
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 423,
-    "timeDay": 516,
-    "timeWeek": 416,
-    "timeMonth": 440,
-    "timeYear": 419,
+    "timeDay": 359,
+    "timeWeek": 398,
+    "timeMonth": 437,
+    "timeYear": 418,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 162,
-    "timeWeek": 176,
-    "timeMonth": 221,
+    "timeDay": 274,
+    "timeWeek": 185,
+    "timeMonth": 214,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2024-10-10": 35
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 167,
-    "timeWeek": 275,
-    "timeMonth": 224,
+    "timeDay": 215,
+    "timeWeek": 267,
+    "timeMonth": 225,
     "timeYear": 239,
     "dailyMinutesDown": {}
   },
@@ -86,10 +86,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 217,
-    "timeDay": 164,
-    "timeWeek": 190,
-    "timeMonth": 201,
+    "time": 218,
+    "timeDay": 475,
+    "timeWeek": 234,
+    "timeMonth": 212,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2024-10-10": 28
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 164,
-    "timeWeek": 219,
-    "timeMonth": 197,
+    "timeDay": 130,
+    "timeWeek": 198,
+    "timeMonth": 192,
     "timeYear": 219,
     "dailyMinutesDown": {}
   },
@@ -125,9 +125,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 399,
-    "timeWeek": 280,
-    "timeMonth": 223,
+    "timeDay": 335,
+    "timeWeek": 301,
+    "timeMonth": 227,
     "timeYear": 233,
     "dailyMinutesDown": {}
   }
