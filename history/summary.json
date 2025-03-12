@@ -62,19 +62,19 @@
     "url": "https://jamstatic.fr",
     "icon": "https://icons.duckduckgo.com/ip3/jamstatic.fr.ico",
     "slug": "jamstatic-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 177,
-    "timeWeek": 200,
-    "timeMonth": 193,
-    "timeYear": 240,
+    "time": 225,
+    "timeDay": 323,
+    "timeWeek": 233,
+    "timeMonth": 202,
+    "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-03-12": 0
+      "2025-03-12": 12
     }
   },
   {
