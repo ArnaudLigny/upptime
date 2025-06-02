@@ -4,7 +4,7 @@
     "url": "https://arnaudligny.fr",
     "icon": "https://icons.duckduckgo.com/ip3/arnaudligny.fr.ico",
     "slug": "arnaud-ligny-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 248,
     "timeYear": 219,
     "dailyMinutesDown": {
+      "2025-06-02": 0,
       "2025-05-07": 23
     }
   },
@@ -103,13 +104,13 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 275,
     "timeDay": 500,
-    "timeWeek": 718,
-    "timeMonth": 704,
+    "timeWeek": 736,
+    "timeMonth": 707,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2025-05-26": 40,
