@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 177,
-    "timeWeek": 245,
-    "timeMonth": 263,
-    "timeYear": 222,
+    "timeDay": 152,
+    "timeWeek": 236,
+    "timeMonth": 257,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2025-05-07": 23
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ligny.fr.ico",
     "slug": "ligny-fr",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 440,
-    "timeDay": 466,
-    "timeWeek": 545,
-    "timeMonth": 519,
-    "timeYear": 455,
+    "timeDay": 487,
+    "timeWeek": 560,
+    "timeMonth": 517,
+    "timeYear": 454,
     "dailyMinutesDown": {}
   },
   {
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 219,
-    "timeDay": 139,
-    "timeWeek": 177,
-    "timeMonth": 217,
+    "time": 220,
+    "timeDay": 188,
+    "timeWeek": 184,
+    "timeMonth": 212,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2024-10-10": 35
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 71,
-    "timeWeek": 145,
-    "timeMonth": 244,
+    "timeDay": 357,
+    "timeWeek": 178,
+    "timeMonth": 242,
     "timeYear": 239,
     "dailyMinutesDown": {}
   },
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 225,
-    "timeDay": 154,
-    "timeWeek": 216,
-    "timeMonth": 241,
+    "timeDay": 83,
+    "timeWeek": 206,
+    "timeMonth": 225,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2024-10-10": 28
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
-    "time": 292,
-    "timeDay": 596,
-    "timeWeek": 734,
-    "timeMonth": 724,
-    "timeYear": 326,
+    "time": 293,
+    "timeDay": 582,
+    "timeWeek": 757,
+    "timeMonth": 719,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2025-05-26": 40,
       "2025-05-01": 117
@@ -128,9 +128,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 185,
-    "timeWeek": 220,
-    "timeMonth": 227,
+    "timeDay": 246,
+    "timeWeek": 229,
+    "timeMonth": 225,
     "timeYear": 241,
     "dailyMinutesDown": {}
   }
