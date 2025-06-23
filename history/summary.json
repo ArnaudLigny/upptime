@@ -24,9 +24,9 @@
     "url": "https://ligny.fr",
     "icon": "https://icons.duckduckgo.com/ip3/ligny.fr.ico",
     "slug": "ligny-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 470,
     "timeMonth": 503,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-23": 0
+    }
   },
   {
     "name": "Cecil.app",
@@ -107,7 +109,7 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 299,
-    "timeDay": 727,
+    "timeDay": 834,
     "timeWeek": 716,
     "timeMonth": 737,
     "timeYear": 338,
