@@ -24,19 +24,19 @@
     "url": "https://ligny.fr",
     "icon": "https://icons.duckduckgo.com/ip3/ligny.fr.ico",
     "slug": "ligny-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 431,
-    "timeWeek": 470,
-    "timeMonth": 503,
-    "timeYear": 456,
+    "time": 444,
+    "timeDay": 1262,
+    "timeWeek": 673,
+    "timeMonth": 553,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2025-06-23": 0
+      "2025-06-23": 11
     }
   },
   {
