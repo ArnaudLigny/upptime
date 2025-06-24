@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 1080,
-    "timeWeek": 268,
-    "timeMonth": 266,
-    "timeYear": 223,
+    "timeDay": 433,
+    "timeWeek": 318,
+    "timeMonth": 274,
+    "timeYear": 224,
     "dailyMinutesDown": {
       "2025-05-07": 23
     }
@@ -26,18 +26,16 @@
     "slug": "ligny-fr",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 444,
-    "timeDay": 1262,
-    "timeWeek": 673,
-    "timeMonth": 553,
+    "timeDay": 1245,
+    "timeWeek": 658,
+    "timeMonth": 548,
     "timeYear": 460,
-    "dailyMinutesDown": {
-      "2025-06-23": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cecil.app",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 219,
-    "timeDay": 250,
+    "timeDay": 154,
     "timeWeek": 145,
-    "timeMonth": 182,
+    "timeMonth": 183,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2024-10-10": 35
@@ -71,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 322,
-    "timeWeek": 195,
-    "timeMonth": 234,
-    "timeYear": 239,
+    "timeDay": 161,
+    "timeWeek": 194,
+    "timeMonth": 232,
+    "timeYear": 240,
     "dailyMinutesDown": {}
   },
   {
@@ -89,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 225,
-    "timeDay": 401,
-    "timeWeek": 162,
-    "timeMonth": 197,
-    "timeYear": 234,
+    "timeDay": 193,
+    "timeWeek": 180,
+    "timeMonth": 201,
+    "timeYear": 235,
     "dailyMinutesDown": {
       "2024-10-10": 28
     }
@@ -109,10 +107,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 299,
-    "timeDay": 834,
+    "timeDay": 613,
     "timeWeek": 716,
-    "timeMonth": 737,
-    "timeYear": 338,
+    "timeMonth": 738,
+    "timeYear": 340,
     "dailyMinutesDown": {
       "2025-05-26": 40,
       "2025-05-01": 117
@@ -130,9 +128,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 289,
-    "timeWeek": 248,
-    "timeMonth": 229,
+    "timeDay": 112,
+    "timeWeek": 245,
+    "timeMonth": 228,
     "timeYear": 241,
     "dailyMinutesDown": {}
   }
