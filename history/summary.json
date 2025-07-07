@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 147,
-    "timeWeek": 179,
-    "timeMonth": 228,
+    "timeDay": 184,
+    "timeWeek": 192,
+    "timeMonth": 229,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2025-05-07": 23
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 445,
-    "timeDay": 481,
-    "timeWeek": 366,
+    "timeDay": 196,
+    "timeWeek": 319,
     "timeMonth": 524,
-    "timeYear": 462,
+    "timeYear": 461,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 221,
-    "timeDay": 123,
-    "timeWeek": 295,
-    "timeMonth": 196,
+    "timeDay": 297,
+    "timeWeek": 316,
+    "timeMonth": 198,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2024-10-10": 35
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 150,
-    "timeWeek": 338,
-    "timeMonth": 226,
-    "timeYear": 243,
+    "timeDay": 102,
+    "timeWeek": 301,
+    "timeMonth": 224,
+    "timeYear": 242,
     "dailyMinutesDown": {}
   },
   {
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 226,
-    "timeDay": 156,
-    "timeWeek": 280,
-    "timeMonth": 206,
-    "timeYear": 237,
+    "timeDay": 114,
+    "timeWeek": 258,
+    "timeMonth": 204,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2024-10-10": 28
     }
@@ -102,17 +102,16 @@
     "slug": "paysages-a-velo",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
-    "time": 306,
-    "timeDay": 582,
-    "timeWeek": 761,
-    "timeMonth": 760,
-    "timeYear": 361,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 307,
+    "timeDay": 795,
+    "timeWeek": 790,
+    "timeMonth": 759,
+    "timeYear": 363,
     "dailyMinutesDown": {
-      "2025-07-06": 7,
       "2025-07-03": 22,
       "2025-05-26": 40,
       "2025-05-01": 117
@@ -130,10 +129,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 250,
-    "timeWeek": 279,
-    "timeMonth": 250,
-    "timeYear": 243,
+    "timeDay": 351,
+    "timeWeek": 301,
+    "timeMonth": 248,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   }
 ]
