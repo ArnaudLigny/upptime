@@ -62,18 +62,20 @@
     "url": "https://jamstatic.fr",
     "icon": "https://icons.duckduckgo.com/ip3/jamstatic.fr.ico",
     "slug": "jamstatic-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 179,
-    "timeWeek": 209,
-    "timeMonth": 284,
-    "timeYear": 238,
-    "dailyMinutesDown": {}
+    "time": 239,
+    "timeDay": 424,
+    "timeWeek": 266,
+    "timeMonth": 296,
+    "timeYear": 239,
+    "dailyMinutesDown": {
+      "2025-08-26": 0
+    }
   },
   {
     "name": "Cecillie.fr",
