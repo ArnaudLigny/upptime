@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 624,
-    "timeWeek": 728,
-    "timeMonth": 414,
-    "timeYear": 242,
+    "time": 235,
+    "timeDay": 834,
+    "timeWeek": 715,
+    "timeMonth": 426,
+    "timeYear": 244,
     "dailyMinutesDown": {
       "2025-05-07": 23
     }
@@ -26,15 +26,15 @@
     "slug": "ligny-fr",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "98.89%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 460,
-    "timeDay": 1114,
-    "timeWeek": 872,
-    "timeMonth": 542,
-    "timeYear": 473,
+    "timeDay": 843,
+    "timeWeek": 866,
+    "timeMonth": 553,
+    "timeYear": 474,
     "dailyMinutesDown": {
       "2025-10-01": 16
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 226,
-    "timeDay": 100,
-    "timeWeek": 249,
-    "timeMonth": 229,
+    "timeDay": 326,
+    "timeWeek": 257,
+    "timeMonth": 233,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2024-10-10": 35
@@ -65,15 +65,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jamstatic.fr.ico",
     "slug": "jamstatic-fr",
     "status": "up",
-    "uptime": "98.90%",
+    "uptime": "98.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 153,
-    "timeWeek": 273,
-    "timeMonth": 242,
+    "timeDay": 369,
+    "timeWeek": 297,
+    "timeMonth": 250,
     "timeYear": 246,
     "dailyMinutesDown": {}
   },
@@ -89,10 +89,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 240,
-    "timeDay": 128,
-    "timeWeek": 228,
-    "timeMonth": 247,
-    "timeYear": 238,
+    "timeDay": 301,
+    "timeWeek": 227,
+    "timeMonth": 249,
+    "timeYear": 239,
     "dailyMinutesDown": {
       "2024-10-10": 28
     }
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "97.23%",
-    "time": 449,
-    "timeDay": 702,
-    "timeWeek": 793,
-    "timeMonth": 772,
-    "timeYear": 491,
+    "time": 450,
+    "timeDay": 848,
+    "timeWeek": 780,
+    "timeMonth": 781,
+    "timeYear": 492,
     "dailyMinutesDown": {
       "2025-09-10": 26,
       "2025-08-12": 616,
@@ -143,10 +143,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 216,
-    "timeWeek": 211,
-    "timeMonth": 250,
-    "timeYear": 237,
+    "timeDay": 315,
+    "timeWeek": 221,
+    "timeMonth": 254,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   }
 ]
