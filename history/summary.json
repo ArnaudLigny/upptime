@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 761,
-    "timeWeek": 832,
-    "timeMonth": 542,
-    "timeYear": 254,
+    "time": 244,
+    "timeDay": 690,
+    "timeWeek": 811,
+    "timeMonth": 558,
+    "timeYear": 256,
     "dailyMinutesDown": {
       "2025-05-07": 23
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 464,
-    "timeDay": 753,
-    "timeWeek": 809,
-    "timeMonth": 628,
-    "timeYear": 478,
+    "time": 465,
+    "timeDay": 690,
+    "timeWeek": 787,
+    "timeMonth": 637,
+    "timeYear": 479,
     "dailyMinutesDown": {
       "2025-10-01": 16
     }
@@ -51,13 +51,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 229,
-    "timeDay": 307,
-    "timeWeek": 345,
-    "timeMonth": 256,
-    "timeYear": 231,
-    "dailyMinutesDown": {
-      "2024-10-10": 35
-    }
+    "timeDay": 188,
+    "timeWeek": 325,
+    "timeMonth": 257,
+    "timeYear": 230,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jamstatic.fr",
@@ -71,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 261,
-    "timeWeek": 378,
-    "timeMonth": 289,
-    "timeYear": 249,
+    "timeDay": 268,
+    "timeWeek": 364,
+    "timeMonth": 284,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   },
   {
@@ -88,14 +86,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 241,
-    "timeDay": 246,
-    "timeWeek": 277,
-    "timeMonth": 266,
+    "time": 242,
+    "timeDay": 172,
+    "timeWeek": 261,
+    "timeMonth": 264,
     "timeYear": 238,
-    "dailyMinutesDown": {
-      "2024-10-10": 28
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Paysages à vélo",
@@ -109,10 +105,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "97.23%",
     "time": 419,
-    "timeDay": 820,
-    "timeWeek": 787,
-    "timeMonth": 779,
-    "timeYear": 504,
+    "timeDay": 682,
+    "timeWeek": 772,
+    "timeMonth": 781,
+    "timeYear": 505,
     "dailyMinutesDown": {
       "2025-10-06": 16,
       "2025-09-10": 26,
@@ -143,10 +139,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 211,
-    "timeWeek": 277,
-    "timeMonth": 258,
+    "time": 243,
+    "timeDay": 185,
+    "timeWeek": 258,
+    "timeMonth": 257,
     "timeYear": 237,
     "dailyMinutesDown": {}
   }
