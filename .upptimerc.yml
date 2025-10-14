@@ -18,7 +18,7 @@ sites:
     url: https://narno.com
 
 status-website:
-  cname: https://dev.ligny.org
+  cname: dev.ligny.org
   baseUrl: /upptime
   logoUrl: https://avatars.slack-edge.com/2019-01-07/519740943718_24bb52543b0d63380aab_132.png
   name: Uptime @ ligny.fr
