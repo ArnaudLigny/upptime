@@ -6,8 +6,8 @@
     "slug": "arnaud-ligny-fr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 266,
@@ -16,7 +16,6 @@
     "timeMonth": 755,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2025-10-19": 2,
       "2025-05-07": 23
     }
   },
@@ -27,8 +26,8 @@
     "slug": "ligny-fr",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 484,
@@ -37,7 +36,6 @@
     "timeMonth": 851,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2025-10-19": 2,
       "2025-10-01": 16
     }
   },
