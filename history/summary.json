@@ -44,19 +44,19 @@
     "url": "https://cecil.app",
     "icon": "https://icons.duckduckgo.com/ip3/cecil.app.ico",
     "slug": "cecil-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.26%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "95.16%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 232,
-    "timeDay": 249,
-    "timeWeek": 241,
-    "timeMonth": 260,
+    "timeDay": 340,
+    "timeWeek": 259,
+    "timeMonth": 267,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-10-20": 40
+      "2025-10-20": 70
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://jamstatic.fr",
     "icon": "https://icons.duckduckgo.com/ip3/jamstatic.fr.ico",
     "slug": "jamstatic-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "98.92%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
-    "time": 254,
-    "timeDay": 274,
-    "timeWeek": 257,
-    "timeMonth": 285,
-    "timeYear": 252,
+    "time": 255,
+    "timeDay": 356,
+    "timeWeek": 273,
+    "timeMonth": 291,
+    "timeYear": 253,
     "dailyMinutesDown": {
-      "2025-10-20": 39
+      "2025-10-20": 69
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://www.cecillie.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cecillie.fr.ico",
     "slug": "cecillie-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.78%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.99%",
-    "time": 243,
-    "timeDay": 203,
-    "timeWeek": 253,
-    "timeMonth": 240,
-    "timeYear": 239,
+    "uptimeDay": "93.67%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.98%",
+    "time": 244,
+    "timeDay": 279,
+    "timeWeek": 269,
+    "timeMonth": 247,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-10-20": 61
+      "2025-10-20": 91
     }
   },
   {
