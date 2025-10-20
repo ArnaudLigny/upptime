@@ -44,19 +44,19 @@
     "url": "https://cecil.app",
     "icon": "https://icons.duckduckgo.com/ip3/cecil.app.ico",
     "slug": "cecil-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 231,
+    "time": 232,
     "timeDay": 249,
     "timeWeek": 241,
     "timeMonth": 260,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-10-20": 39
+      "2025-10-20": 40
     }
   },
   {
@@ -64,9 +64,9 @@
     "url": "https://jamstatic.fr",
     "icon": "https://icons.duckduckgo.com/ip3/jamstatic.fr.ico",
     "slug": "jamstatic-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "97.35%",
+    "uptimeDay": "97.31%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
@@ -76,7 +76,7 @@
     "timeMonth": 285,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2025-10-20": 38
+      "2025-10-20": 39
     }
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://www.cecillie.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cecillie.fr.ico",
     "slug": "cecillie-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "95.79%",
+    "uptimeDay": "95.78%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
