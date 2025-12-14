@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 334,
     "timeDay": 1109,
-    "timeWeek": 1020,
+    "timeWeek": 1081,
     "timeMonth": 821,
     "timeYear": 372,
     "dailyMinutesDown": {
@@ -28,12 +28,12 @@
     "status": "up",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 535,
     "timeDay": 955,
-    "timeWeek": 1253,
+    "timeWeek": 1333,
     "timeMonth": 893,
     "timeYear": 564,
     "dailyMinutesDown": {
@@ -46,10 +46,10 @@
     "url": "https://cecil.app",
     "icon": "https://icons.duckduckgo.com/ip3/cecil.app.ico",
     "slug": "cecil-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 248,
@@ -58,6 +58,7 @@
     "timeMonth": 317,
     "timeYear": 256,
     "dailyMinutesDown": {
+      "2025-12-14": 2,
       "2025-10-20": 70
     }
   },
@@ -66,10 +67,10 @@
     "url": "https://jamstatic.fr",
     "icon": "https://icons.duckduckgo.com/ip3/jamstatic.fr.ico",
     "slug": "jamstatic-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 257,
@@ -78,6 +79,7 @@
     "timeMonth": 352,
     "timeYear": 265,
     "dailyMinutesDown": {
+      "2025-12-14": 1,
       "2025-10-20": 69
     }
   },
@@ -86,9 +88,9 @@
     "url": "https://www.cecillie.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cecillie.fr.ico",
     "slug": "cecillie-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -98,6 +100,7 @@
     "timeMonth": 279,
     "timeYear": 248,
     "dailyMinutesDown": {
+      "2025-12-14": 0,
       "2025-10-20": 91
     }
   },
