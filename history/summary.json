@@ -6,17 +6,16 @@
     "slug": "arnaud-ligny-fr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 341,
-    "timeDay": 1223,
-    "timeWeek": 1095,
-    "timeMonth": 856,
-    "timeYear": 380,
+    "time": 342,
+    "timeDay": 1011,
+    "timeWeek": 1062,
+    "timeMonth": 854,
+    "timeYear": 381,
     "dailyMinutesDown": {
-      "2025-12-17": 8,
       "2025-12-07": 17,
       "2025-05-07": 23
     }
@@ -28,17 +27,16 @@
     "slug": "ligny-fr",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 540,
-    "timeDay": 1053,
-    "timeWeek": 1298,
-    "timeMonth": 881,
+    "timeDay": 999,
+    "timeWeek": 1272,
+    "timeMonth": 882,
     "timeYear": 569,
     "dailyMinutesDown": {
-      "2025-12-17": 8,
       "2025-12-07": 17,
       "2025-10-01": 16
     }
@@ -55,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 250,
-    "timeDay": 570,
-    "timeWeek": 338,
-    "timeMonth": 306,
-    "timeYear": 258,
+    "timeDay": 105,
+    "timeWeek": 297,
+    "timeMonth": 301,
+    "timeYear": 257,
     "dailyMinutesDown": {
       "2025-10-20": 70
     }
@@ -74,10 +72,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 257,
-    "timeDay": 293,
-    "timeWeek": 292,
-    "timeMonth": 356,
+    "time": 258,
+    "timeDay": 173,
+    "timeWeek": 265,
+    "timeMonth": 354,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2025-10-20": 69
@@ -95,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 246,
-    "timeDay": 449,
-    "timeWeek": 320,
+    "timeDay": 141,
+    "timeWeek": 297,
     "timeMonth": 282,
-    "timeYear": 249,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2025-10-20": 91
     }
@@ -115,10 +113,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "97.22%",
     "time": 514,
-    "timeDay": 819,
-    "timeWeek": 818,
-    "timeMonth": 793,
-    "timeYear": 600,
+    "timeDay": 750,
+    "timeWeek": 807,
+    "timeMonth": 794,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2025-11-18": 28,
       "2025-10-06": 16,
@@ -151,10 +149,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 406,
-    "timeWeek": 245,
+    "timeDay": 267,
+    "timeWeek": 241,
     "timeMonth": 245,
-    "timeYear": 243,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   }
 ]
