@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 374,
-    "timeDay": 1023,
-    "timeWeek": 826,
-    "timeMonth": 807,
-    "timeYear": 424,
+    "time": 375,
+    "timeDay": 685,
+    "timeWeek": 836,
+    "timeMonth": 809,
+    "timeYear": 426,
     "dailyMinutesDown": {
       "2025-12-07": 17,
       "2025-05-07": 23
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 560,
-    "timeDay": 873,
-    "timeWeek": 827,
-    "timeMonth": 796,
-    "timeYear": 595,
+    "time": 561,
+    "timeDay": 679,
+    "timeWeek": 835,
+    "timeMonth": 795,
+    "timeYear": 596,
     "dailyMinutesDown": {
       "2025-12-07": 17,
       "2025-10-01": 16
@@ -52,9 +52,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 255,
-    "timeDay": 785,
-    "timeWeek": 329,
+    "time": 256,
+    "timeDay": 269,
+    "timeWeek": 336,
     "timeMonth": 316,
     "timeYear": 263,
     "dailyMinutesDown": {
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 271,
-    "timeDay": 446,
-    "timeWeek": 974,
-    "timeMonth": 452,
+    "timeDay": 328,
+    "timeWeek": 996,
+    "timeMonth": 455,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2025-10-20": 69
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 249,
-    "timeDay": 496,
-    "timeWeek": 307,
-    "timeMonth": 311,
-    "timeYear": 256,
+    "timeDay": 438,
+    "timeWeek": 358,
+    "timeMonth": 318,
+    "timeYear": 257,
     "dailyMinutesDown": {
       "2025-10-20": 91
     }
@@ -112,11 +112,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "97.22%",
-    "time": 532,
-    "timeDay": 866,
-    "timeWeek": 742,
+    "time": 533,
+    "timeDay": 651,
+    "timeWeek": 746,
     "timeMonth": 768,
-    "timeYear": 636,
+    "timeYear": 637,
     "dailyMinutesDown": {
       "2026-01-08": 17,
       "2025-11-18": 28,
@@ -150,9 +150,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 196,
-    "timeWeek": 246,
-    "timeMonth": 236,
+    "timeDay": 241,
+    "timeWeek": 256,
+    "timeMonth": 237,
     "timeYear": 245,
     "dailyMinutesDown": {}
   }
