@@ -2,10 +2,10 @@ owner: ArnaudLigny
 repo: upptime
 
 sites:
-  - name: Arnaud Ligny
-    url: https://arnaudligny.fr
   - name: Ligny
     url: https://ligny.fr
+  - name: Arnaud Ligny
+    url: https://arnaudligny.fr
   - name: Cecil
     url: https://cecil.app
   - name: Jamstatic
