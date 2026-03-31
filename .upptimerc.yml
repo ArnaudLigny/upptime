@@ -2,18 +2,16 @@ owner: ArnaudLigny
 repo: upptime
 
 sites:
-  - name: Ligny
-    url: https://ligny.fr
   - name: Arnaud Ligny
     url: https://arnaudligny.fr
+  - name: Ligny
+    url: https://ligny.fr
   - name: Cecil
     url: https://cecil.app
   - name: Jamstatic
     url: https://jamstatic.fr
   - name: Cecillie
     url: https://www.cecillie.fr
-  - name: La boutique de Cecillie
-    url: https://shop.cecillie.fr
   - name: Les aventures de Jean Claude
     url: https://jeanclaude-aventures.com
   - name: Le sac à dos infini
