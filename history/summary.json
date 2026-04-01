@@ -95,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/jeanclaude-aventures.com.ico",
     "slug": "les-aventures-de-jean-claude",
     "status": "up",
-    "uptime": "92.51%",
-    "uptimeDay": "92.51%",
-    "uptimeWeek": "92.51%",
-    "uptimeMonth": "92.51%",
-    "uptimeYear": "92.51%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 377,
     "timeDay": 377,
     "timeWeek": 377,
     "timeMonth": 377,
     "timeYear": 377,
-    "dailyMinutesDown": {
-      "2026-03-31": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Le sac à dos infini",
