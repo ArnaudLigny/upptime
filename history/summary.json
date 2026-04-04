@@ -94,19 +94,19 @@
     "url": "https://jeanclaude-aventures.com",
     "icon": "https://icons.duckduckgo.com/ip3/jeanclaude-aventures.com.ico",
     "slug": "les-aventures-de-jean-claude",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 600,
-    "timeDay": 949,
-    "timeWeek": 600,
-    "timeMonth": 600,
-    "timeYear": 600,
+    "status": "up",
+    "uptime": "99.50%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
+    "time": 580,
+    "timeDay": 694,
+    "timeWeek": 580,
+    "timeMonth": 580,
+    "timeYear": 580,
     "dailyMinutesDown": {
-      "2026-04-04": 0
+      "2026-04-04": 24
     }
   },
   {
