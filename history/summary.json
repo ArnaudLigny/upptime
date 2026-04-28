@@ -116,9 +116,9 @@
     "url": "https://jeanclaude-sac.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/jeanclaude-sac.netlify.app.ico",
     "slug": "le-sac-a-dos-infini",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,6 +127,8 @@
     "timeWeek": 545,
     "timeMonth": 645,
     "timeYear": 645,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-28": 0
+    }
   }
 ]
